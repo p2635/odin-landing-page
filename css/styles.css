@@ -9,21 +9,6 @@ footer,
   color: #f9faf8;
 }
 
-.hero {
-  text-align: center;
-}
-
-.hero h1 {
-  font-size: 48px;
-  font-weight: 800;
-  color: #f9faf8;
-}
-
-.hero img {
-  height: 50px;
-  width: 50px;
-}
-
 #nav {
   display: flex;
   justify-content: space-between;
@@ -41,6 +26,21 @@ footer,
 #nav a {
   font-size: 18px;
   color: #e5e7eb;
+}
+
+.hero {
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 48px;
+  font-weight: 800;
+  color: #f9faf8;
+}
+
+.hero img {
+  height: 50px;
+  width: 50px;
 }
 
 .quote {
