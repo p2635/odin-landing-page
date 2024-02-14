@@ -1,3 +1,3 @@
 # The Odin Project - Landing Page Project
 
-Live site: https://p2635.github.io/odin-landing-page/
+[![pages-build-deployment](https://github.com/p2635/odin-landing-page/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/p2635/odin-landing-page/actions/workflows/pages/pages-build-deployment)
